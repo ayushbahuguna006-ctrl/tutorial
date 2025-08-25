@@ -1,4 +1,4 @@
-# Tutorial
-<h1>This is my first github repo made for learning experiences!</h1>
+<h1>Tutorial</h1>
+<h3>This is my first github repo made for learning experiences!</h3>
 <br>
 tutorial 1
